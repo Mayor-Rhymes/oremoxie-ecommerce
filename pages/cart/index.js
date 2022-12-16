@@ -1,6 +1,5 @@
 import {useCartContext} from '../../context/CartContext';
 import { useState } from 'react';
-import Image from 'next/Image';
 
 import {urlFor} from '../../lib/client';
 
